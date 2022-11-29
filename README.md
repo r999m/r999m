@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r999m
+- 👋 Hi, I’m rahul mishra
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Google , Microsoft
