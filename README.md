@@ -1,8 +1,9 @@
 - 👋 Hi, I’m rahul mishra
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Google , Microsoft
-- 📫 How to reach me rahulmish989@gmail.com , +919993693607
+- 💞️ I’m looking for internships and job.
+- 📫 How to reach me rahulmish989@gmail.com , 
+- +919993693607
 -  Who i am :- https://rahulmishraportfolio.netlify.app/
   
 <!---
